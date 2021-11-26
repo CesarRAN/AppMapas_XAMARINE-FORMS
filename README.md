@@ -6,15 +6,15 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Acerca del proyecto</a>
+      <a>Acerca del proyecto</a>
     </li>
     <li>
-      <a href="#about-the-project">Implementación</a>
+      <a>Implementación</a>
     </li>
     <li>
-      <a href="#getting-started">Funcionamiento</a>
+      <a>Funcionamiento</a>
       <ul>
-        <li><a href="#prerequisites">Almacenamiento de las notas</a></li>
+        <li><a>Almacenamiento de las notas</a></li>
       </ul>
     </li>
   </ol>
