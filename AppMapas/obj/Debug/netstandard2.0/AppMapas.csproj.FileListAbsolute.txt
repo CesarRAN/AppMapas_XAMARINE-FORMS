@@ -1,0 +1,36 @@
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppMapas.csproj.AssemblyReference.cache
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppMapas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\Views\LocatePage.xaml.g.cs
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppMapas.AssemblyInfoInputs.cache
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppMapas.AssemblyInfo.cs
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppMapas.csproj.CoreCompileInputs.cache
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppMapas.dll
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\ref\AppMapas.dll
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppMapas.pdb
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\bin\Debug\netstandard2.0\AppMapas.deps.json
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\bin\Debug\netstandard2.0\AppMapas.dll
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\bin\Debug\netstandard2.0\ref\AppMapas.dll
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\bin\Debug\netstandard2.0\AppMapas.pdb
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\Proyecto final\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\bin\Debug\netstandard2.0\AppMapas.deps.json
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\bin\Debug\netstandard2.0\AppMapas.dll
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\bin\Debug\netstandard2.0\ref\AppMapas.dll
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\bin\Debug\netstandard2.0\AppMapas.pdb
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppMapas.csproj.AssemblyReference.cache
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppMapas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\Views\LocateEntryPage.xaml.g.cs
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\Views\LocatePage.xaml.g.cs
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppMapas.AssemblyInfoInputs.cache
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppMapas.AssemblyInfo.cs
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppMapas.csproj.CoreCompileInputs.cache
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppMapas.dll
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\ref\AppMapas.dll
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\AppMapas.pdb
+D:\Escritorio\Noveno Semestre\Aplicaciones Movil\Proyecto\AppMapas\AppMapas\AppMapas\obj\Debug\netstandard2.0\Views\Mapa.xaml.g.cs
